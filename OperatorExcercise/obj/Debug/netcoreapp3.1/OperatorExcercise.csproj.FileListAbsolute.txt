@@ -1,0 +1,14 @@
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.exe
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.deps.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.runtimeconfig.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.runtimeconfig.dev.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.pdb
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.csproj.AssemblyReference.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.AssemblyInfoInputs.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.AssemblyInfo.cs
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.csproj.CoreCompileInputs.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.pdb
+C:\Users\jmlaw\OneDrive\Desktop\repos1\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.genruntimeconfig.cache
